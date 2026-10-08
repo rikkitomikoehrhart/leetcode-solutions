@@ -1,5 +1,5 @@
 """
-0001. Two Sun
+0001. Two Sum
 Difficulty: Easy
 Link: https://leetcode.com/problems/two-sum/
 
