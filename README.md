@@ -13,15 +13,15 @@ Hello! My name is Rikki and these are my solutions to [LeetCode](https://leetcod
 ## Progress
 | EASY | MEDIUM | HARD | TOTAL |
 |:----:|:------:|:----:|:-----:|
-| 0    | 0      | 0    | 0     |
+| 1    | 0      | 0    | 1     |
 
 
 ## Repo Structure
 ```
-Python/
-├── Easy/
-├── Medium/
-└── Hard/
+Python/               # Python Solutions
+├── 1_Easy/           # Easy Difficulty
+├── 2_Medium/         # Medium Difficulty
+└── 3_Hard/           # Hard Difficulty
 ```
 
 ## Notes
