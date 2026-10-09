@@ -13,7 +13,7 @@ Hello! My name is Rikki and these are my solutions to [LeetCode](https://leetcod
 ## Progress
 | EASY | MEDIUM | HARD | TOTAL |
 |:----:|:------:|:----:|:-----:|
-| 2    | 0      | 0    | 2     |
+| 4    | 0      | 0    | 4     |
 
 
 ## Repo Structure
